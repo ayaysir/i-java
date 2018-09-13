@@ -1,0 +1,7 @@
+D:\ServerResource\Template_user45.java:20: error: not a statement
+		null
+		^
+D:\ServerResource\Template_user45.java:20: error: ';' expected
+		null
+		    ^
+2 errors

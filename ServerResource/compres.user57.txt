@@ -1,0 +1,6 @@
+D:\ServerResource\Template_user57.java:22: error: cannot find symbol
+ print(A);
+       ^
+  symbol:   variable A
+  location: class Template_user57
+1 error
